@@ -1,0 +1,17 @@
+*{
+  box-sizing: content-box;
+}
+.container{
+    background-color: aqua;
+}
+.container-fluid{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.row{
+    border: 1px solid black;
+    
+}
+div{
+    border: 1px solid black;
+}
